@@ -1,3 +1,18 @@
 February 25, 2024
 Git Part 1
 Kaitlin Castor
+
+:)
+
+```{r}
+math <- function(a) {
+  
+answer = a+2
+
+return(answer)} 
+
+#test
+math(1)
+
+```
+
