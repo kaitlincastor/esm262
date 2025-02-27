@@ -7,7 +7,7 @@ Kaitlin Castor
 ```{r}
 math <- function(a) {
   
-answer = a+2
+answer = a+5
 
 return(answer)} 
 
@@ -22,5 +22,7 @@ doodoo <- function(x) {
 }
 
 doodoo(1)
+
+
 ```
 
