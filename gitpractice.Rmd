@@ -7,7 +7,8 @@ Kaitlin Castor
 ```{r}
 math <- function(a) {
   
-answer = a+2
+answer = a+2+100
+#making conflicts
 
 return(answer)} 
 
@@ -16,3 +17,4 @@ math(1)
 
 ```
 
+:) 
