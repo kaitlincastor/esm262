@@ -14,5 +14,13 @@ return(answer)}
 #test
 math(1)
 
+#doo doo func
+doodoo <- function(x) {
+  deedee = x/5
+  
+  return(deedee)
+}
+
+doodoo(1)
 ```
 
