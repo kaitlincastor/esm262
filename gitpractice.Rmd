@@ -18,3 +18,7 @@ math(1)
 ```
 
 :) 
+```{r}
+git config pull.rebase false
+```
+
