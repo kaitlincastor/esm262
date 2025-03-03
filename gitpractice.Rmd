@@ -7,18 +7,27 @@ Kaitlin Castor
 ```{r}
 math <- function(a) {
   
-answer = a+2+100
-#making conflicts
+answer = a+5
 
 return(answer)} 
 
 #test
 math(1)
 
+#doo doo func
+doodoo <- function(x) {
+  deedee = x/5
+  
+  return(deedee)
+}
+
+doodoo(1)
+
+
 ```
 
 :) 
 ```{r}
-git config pull.rebase false
+# git config pull.rebase false        #must do this in the terminal
 ```
 
